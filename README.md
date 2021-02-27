@@ -1,2 +1,2 @@
 # Steam-Game-Recommendation
-A Steam Games Recommender in Python
+A Steam Games Recommender in Python.
